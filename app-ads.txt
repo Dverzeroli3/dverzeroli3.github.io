@@ -1,0 +1,2 @@
+# Perfect Drop (com.dverze.perfectdrop) - Google AdMob
+# Da completare quando l'account AdMob è creato: node tools/app_ads.js pub-XXXXXXXXXXXXXXXX
